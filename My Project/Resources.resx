@@ -121,10 +121,10 @@
   <data name="DSEG7Classic_Regular" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\DSEG7Classic-Regular.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Seven_Segment" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\..\..\Downloads\seven_segment\Seven Segment.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Seven Segment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\seven segment.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Unicode_IEC_symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\..\..\Downloads\Unicode_IEC_symbol.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>..\unicode_iec_symbol.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

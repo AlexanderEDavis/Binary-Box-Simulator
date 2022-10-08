@@ -25,6 +25,7 @@ A box that uses switches lightbulbs and a Arduino Mega to teach students how bin
     <Version>1.5.2</Version>
     <RepositoryUrl>https://github.com/AlexanderEDavis/Binary-Box-Simulator</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
+    <Configurations>Debug;Release;Export</Configurations>
   </PropertyGroup>
 
   <ItemGroup>
